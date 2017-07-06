@@ -18,5 +18,6 @@
   "homepage": "https://github.com/maxyoung94/mern#readme",
   "dependencies": {
     "express": "^4.15.3"
-  }
+  },
+  "devDependencies": {}
 }
